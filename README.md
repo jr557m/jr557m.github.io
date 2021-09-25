@@ -1,2 +1,2 @@
 # jr557m.github.io
-Лаба 1
+web
