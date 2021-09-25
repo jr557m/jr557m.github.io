@@ -7,6 +7,17 @@
     text-decoration: none;
     opacity: 1;
 }
+.navigation {
+    text-decoration: none;
+    color: black;
+    margin-right: 10px;
+}
+
+#underline {
+    text-decoration: none;
+    color: white;
+    margin-right: 10px;
+}
 .menu a:hover{
     color: coral;
     text-decoration: none;
